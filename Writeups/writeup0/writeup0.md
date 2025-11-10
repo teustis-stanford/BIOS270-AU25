@@ -1,6 +1,6 @@
 # Write-up 0: template
 
-**Name:** Tara Eustis  
+**Name:** Tara Eustis   
 **Student ID:** teustis 
 **Date:** 11/11/2025  
 
