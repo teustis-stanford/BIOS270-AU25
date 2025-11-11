@@ -1,7 +1,7 @@
 # Write-up 0: template
 
-**Name:** Tara Eustis  
-**Student ID:** teustis 
+**Name:** Khoa Hoang   
+**Student ID:** khoang99 
 **Date:** 11/11/2025  
 
 ---
