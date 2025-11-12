@@ -185,5 +185,8 @@ done < data.txt
 
 Answer the following questions in your `write-up`:
 1. How many slurm job will be submitted?
+   3 will be submitted, since the array goes from 0-2.
 2. What is the purpose of the `if` statement?
+   The if statement assigns the data to different slurm jobs.
 3. What is the expected output in each `*.out` file?
+   It will just look like the echo, where it tells you what value is on each line. 
