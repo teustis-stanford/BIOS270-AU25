@@ -20,7 +20,7 @@ Answer the following questions in your `write-up`:
 
     It will just look like the echo, where it tells you what value is on each line.
 
-###Environment.md
+### Environment.md
 - What micromamba command can you use to list all created environemnts?
   
   micromamba info
