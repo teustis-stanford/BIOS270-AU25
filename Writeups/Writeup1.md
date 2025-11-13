@@ -8,6 +8,13 @@ This Writeup includes the infomation from Setup.md and Environment.md. Questions
 
 ### Setup.md Contents
 Answer the following questions in your `write-up`:
+
+Micromamba setup:
+
+<img width="742" height="101" alt="image" src="https://github.com/user-attachments/assets/b8cb5891-e5d7-4beb-b243-89efe9b0c09d" />
+
+I had a really hard time doing all of this (multiple hours outside of class time) because micromamba would not install correctly. I finally got it right but didn't think to document the process, so can only show the end result.
+
 1. How many slurm job will be submitted?
 
     3 will be submitted, since the array goes from 0-2.
