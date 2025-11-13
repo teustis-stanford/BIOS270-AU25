@@ -57,3 +57,8 @@ Example R Script output:
 *(Hint: You may want to use one of the commands from your answers to the above questions, and combine it with the `grep` command.)*
 
   micromamba list -n bioinfo_example | grep -E "r-base|bioconductor"
+
+Docker Image Build:
+The code given in Environment.md is backwards for the docker build, it gives ... -t . bioinfo_example which gives and error as docker thinks the current path (.) is the name and bioinfo_example is the directory when it should be the opposite.
+<img width="1350" height="442" alt="image" src="https://github.com/user-attachments/assets/9c9cd867-a2ca-466b-8755-50274fa4c553" />
+
