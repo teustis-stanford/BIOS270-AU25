@@ -21,6 +21,15 @@ Answer the following questions in your `write-up`:
     It will just look like the echo, where it tells you what value is on each line.
 
 ### Environment.md
+Example python script output:
+
+<img width="1800" height="1200" alt="image" src="https://github.com/user-attachments/assets/a68180bf-08ed-4c37-af16-0d97e0621fac" />
+
+Example R Script output:
+
+<img width="2099" height="2099" alt="image" src="https://github.com/user-attachments/assets/496c96fe-7408-449d-8b04-4474df9de272" />
+
+
 - What micromamba command can you use to list all created environemnts?
   
   micromamba info
