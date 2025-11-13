@@ -47,15 +47,20 @@ Compare the new YAML file (`bioinfo_example_latest.yaml`) with the original one.
 
 Answer the following questions:
 - What micromamba command can you use to list all created environemnts?
+  micromamba info
 - What micromamba command can you use to list all packages installed in a specific environment?
+  micromamba list -n [name_of_env]
 - What micromamba command can you use to remove a package?
+  micromamba remove -n [env_name] [package_name]
 - What micromamba command can you use to install a package from a specific channel?
+  micromamba install -n [env_name] -c [channel] [package]
 - What micromamba command can you use to remove an environment?
-
+  micromamba env remove -n [env_name]
 
 
 - What are all the `r-base` and `Bioconductor` packages that were installed in the `bioinfo_example` environment?
 *(Hint: You may want to use one of the commands from your answers to the above questions, and combine it with the `grep` command.)*
+micromamba list -n bioinfo_example | grep -E "r-base|bioconductor"
 
 >Remember to push the updated environment file and example outputs to your GitHub repository. Include your output plots and any observations in your write-up.
 
