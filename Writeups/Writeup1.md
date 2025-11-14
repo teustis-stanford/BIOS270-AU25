@@ -62,3 +62,8 @@ Docker Image Build:
 The code given in Environment.md is backwards for the docker build, it gives ... -t . bioinfo_example which gives and error as docker thinks the current path (.) is the name and bioinfo_example is the directory when it should be the opposite.
 <img width="1350" height="442" alt="image" src="https://github.com/user-attachments/assets/9c9cd867-a2ca-466b-8755-50274fa4c553" />
 
+VSCODE Web Porting
+This was not too difficult, though I think the directory in the singularity code gave farmshare/users/[SUNNetid] rather than farmshare/user_data/[SUNNetID] which is our actual Scratch folder
+<img width="1778" height="1456" alt="image" src="https://github.com/user-attachments/assets/0125114a-be6b-4e76-99f4-8de216d2204b" />
+
+
