@@ -29,3 +29,9 @@ In the insert_gff_table.py script you submitted, explain the logic of using try 
 
 This logic is because sql only allows you to write one thing at a time, so this basically continutes to try to write until it is free or a different error occurs.
 
+## Database Query
+
+<img width="642" height="115" alt="image" src="https://github.com/user-attachments/assets/68a62d41-442a-4406-aa33-fee7f5e5990b" />
+
+Uncommenting db.index_records_id() makes it run considerably faster as this allows for it to just know the right lines rather than having to access them all and index each time it needs to call something. 
+
