@@ -35,3 +35,6 @@ This logic is because sql only allows you to write one thing at a time, so this 
 
 Uncommenting db.index_records_id() makes it run considerably faster as this allows for it to just know the right lines rather than having to access them all and index each time it needs to call something. 
 
+<img width="430" height="52" alt="image" src="https://github.com/user-attachments/assets/0d3df55f-272e-4aaf-b0a4-513c07b4afa9" />
+
+
