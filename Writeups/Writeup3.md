@@ -38,4 +38,4 @@ Uncommenting db.index_records_id() makes it run considerably faster as this allo
 <img width="430" height="52" alt="image" src="https://github.com/user-attachments/assets/0d3df55f-272e-4aaf-b0a4-513c07b4afa9" />
 
 
-### This much took me ~6hrs of troubleshooting so based on the reccomendation in class to stop after ~1hr of work I am stopping here.
+## Up to this point took me ~6hrs of troubleshooting so based on the reccomendation in class to stop after ~1hr of work I am stopping here.
